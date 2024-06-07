@@ -2,7 +2,7 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/jpwesselink/jpwesselink/assets/1814479/dd54285a-2a4f-4ce2-b61f-6f8f6d0fa966');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/jpwesselink/jpwesselink/assets/1814479/3a51856c-d741-4420-974b-d7a796c25525');]{x0000}$}
 
 
 <!--
